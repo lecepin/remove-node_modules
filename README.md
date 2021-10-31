@@ -1,4 +1,4 @@
-# remove-node_modules
+# Remove node_modules
 一键查找并删除 `node_modules` 文件夹。
 
 One-click find and remove node_modules folder.
