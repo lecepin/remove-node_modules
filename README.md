@@ -20,15 +20,15 @@ $ ./rnm.php someDir
 ```bash
 $ ./rnm.php dev/ 
 发现文件如下：
-- /Users/xx/Desktop/gCode/d1/node_modules
-- /Users/xx/Desktop/gCode/d2/node_modules
-- /Users/xx/Desktop/gCode/decision-cmp/node_modules
-- /Users/xx/Desktop/gCode/d3/node_modules
+- /Users/xx/Desktop/dev/d1/node_modules
+- /Users/xx/Desktop/dev/d2/node_modules
+- /Users/xx/Desktop/dev/decision-cmp/node_modules
+- /Users/xx/Desktop/dev/d3/node_modules
 
 全部删除，请输入 y，并按回车：
 y
-▶ 删除 /Users/xx/Desktop/gCode/d1/node_modules …… ✅ 
-▶ 删除 /Users/xx/Desktop/gCode/d2/node_modules …… ✅ 
-▶ 删除 /Users/xx/Desktop/gCode/decision-cmp/node_modules …… ✅ 
-▶ 删除 /Users/xx/Desktop/gCode/d3/node_modules …… ✅ 
+▶ 删除 /Users/xx/Desktop/dev/d1/node_modules …… ✅ 
+▶ 删除 /Users/xx/Desktop/dev/d2/node_modules …… ✅ 
+▶ 删除 /Users/xx/Desktop/dev/decision-cmp/node_modules …… ✅ 
+▶ 删除 /Users/xx/Desktop/dev/d3/node_modules …… ✅ 
 ```
