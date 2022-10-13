@@ -17,3 +17,9 @@ $ ./rnm.php someDir
 
 ## 效果
 ![carbon (10)](https://user-images.githubusercontent.com/11046969/147180467-b0161f0f-85a9-4f67-aac7-6d462939321f.png)
+---
+## Mac/Linux
+
+```bash
+curl -s -L https://github.com/lecepin/remove-node_modules/raw/main/rnm.sh -o rnm.sh && bash rnm.sh && rm -f rnm.sh
+```
