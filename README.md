@@ -13,6 +13,9 @@ $ php rnm.php someDir
 # OR
 $ chmod +x rnm.php
 $ ./rnm.php someDir
+
+# OR
+$ curl -s -L https://github.com/lecepin/remove-node_modules/raw/main/rnm.php -o rnm.php && php rnm.php . && rm -f rnm.php
 ```
 
 ## 效果
